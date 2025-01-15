@@ -1,8 +1,8 @@
 ## Olá, meu nome é Gabriel Mussatto!
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias.
 - 🎓 Estudando Sistemas de Informação na Universidade Estadual do Tocantins - UNITINS.
-- 🌱 Aprendendo mais sobre python.
+- 👨🏻‍💻 Em busca de novos aprendizados.
 - 💬 Entre em contato por: gabrielmussatto@gmail.com.
 
 ---
@@ -22,5 +22,21 @@
 ---
 
 ## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielMussatto&show_icons=true)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=GabrielMussatto&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMussatto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
